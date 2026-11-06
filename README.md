@@ -1,12 +1,12 @@
 # SculptForge community brushes
 
 Free sculpting brushes for [SculptForge](https://github.com/islandmed/SculptForge), the free, open-source
-alternative to ZBrush, shared by the people who made them. Every brush here is public domain
+a free, open-source sculpting app, shared by the people who made them. Every brush here is public domain
 ([CC0](LICENSE)): use it in personal and commercial work, change it, bundle it with your own tools.
 
 **Install brushes from inside SculptForge:** *View > Community brushes*, pick one, click **Install**. You can
 also download any `.sfbrush` file from [`brushes/`](brushes) and drag it onto the SculptForge window.
-Browse the gallery with previews at <https://islandmed.github.io/SculptForge/brushes.html>.
+Browse the gallery with previews at <https://sculptforge.app/brushes.html>.
 
 ## What a brush is
 
